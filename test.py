@@ -1,2 +1,2 @@
 import time
-print("jenkinsjob : " + str(time.time()))
+print("jenkinsjob -> " + str(time.time()))
